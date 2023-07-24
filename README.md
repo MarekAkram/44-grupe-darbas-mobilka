@@ -1,25 +1,49 @@
-# Getting Started with Create React App
+LICENSE Security Status Gluten Status Eco Status Discord
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Shop With Me
+mobile design e-shop project
 
-## Available Scripts
 
+🌟 About
+This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
+
+Site published at: https://github.com/MarekAkram/44-grupe-darbas-mobilka
+
+🎯 Project features/goals
+Github pages
+README / markdown
+git branch
+mobile app version desing
+active register form
+active login form
+form validations
+different pages and navigation between them
+localStorage
+database usage
+react icons
+🎅 Authors
+Akram: Github
+
+⚠️ License
+Distributed under the MIT License. See LICENSE.txt for more information.
+
+Getting Started with Create React App
+This project was bootstrapped with Create React App.
+
+Available Scripts
+Clone the repo
+git clone https://github.com/MarekAkram/44-grupe-darbas-mobilka
+Install NPM packages
+npm i
+or
+npm install
 In the project directory, you can run:
 
-### `npm start`
+npm start
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in your browser.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
+The page will reload when you make changes.
 You may also see any lint errors in the console.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
