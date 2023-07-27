@@ -1,23 +1,23 @@
-import style from "./App.module.css";
+import logo from './logo.svg';
+import './App.css';
 
 function App() {
   return (
-    <div className={style.app}>
-      <form className={style.form}>
-        <div className={style.row}>
-          <label htmlFor="name">Name</label>
-          <input id="name" type="text" required placeholder="Your name"/>
-        </div>
-        <div className={style.row}>
-          <label htmlFor="surname">Surname</label>
-          <input id='surname'type="text" />
-        </div>
-        <div className={style.row}>
-          <button type="submit">Register</button>
-          <button type="submit">Login</button>
-        </div>
-      </form>
-      <div className="prev"></div>
+    <div className="App">
+      <header className="App-header">
+        <img src={logo} className="App-logo" alt="logo" />
+        <p>
+          Edit <code>src/App.js</code> and save to reload.
+        </p>
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Learn React
+        </a>
+      </header>
     </div>
   );
 }
